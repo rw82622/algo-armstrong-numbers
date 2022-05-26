@@ -19,4 +19,3 @@ exports.findArmstrongNumbers = function (anArr) {
   }
   return resultArr;
 };
-//
